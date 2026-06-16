@@ -1,4 +1,6 @@
 # WasteLogix
+Visit [WasteLogix](https://wastelogixx.vercel.app/) website
+
 
 WasteLogix is a full-stack smart waste logistics platform for monitoring waste collection trips, tracking trucks in real time, detecting route anomalies, validating driver stops, generating invoices, and relaying live GPS data from ESP32 hardware.
 
